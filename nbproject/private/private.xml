@@ -5,7 +5,8 @@
         <group>
             <file>file:/C:/wamp/www/NeuralColours/sender.php</file>
             <file>file:/C:/wamp/www/NeuralColours/js/NeuralColours.js</file>
-            <file>file:/C:/wamp/www/NeuralColours/index.php</file>
+            <file>file:/C:/wamp/www/NeuralColours/answer.php</file>
+            <file>file:/C:/wamp/www/NeuralColours/timeslot.php</file>
             <file>file:/C:/wamp/www/NeuralColours/js/worker.js</file>
         </group>
     </open-files>
